@@ -48,7 +48,7 @@ export default function PostPage() {
               onMouseEnter={(e) => (e.currentTarget.style.color = 'var(--accent)')}
               onMouseLeave={(e) => (e.currentTarget.style.color = 'var(--fg-muted)')}
             >
-              ← The Log
+              ← My Log
             </Link>
           </div>
         </div>

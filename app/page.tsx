@@ -31,7 +31,7 @@ export default function Home() {
         <div style={{ maxWidth: '680px', margin: '0 auto', padding: '0 24px' }}>
           <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', padding: '32px 0 28px' }}>
             <span style={{ fontSize: '20px', fontWeight: 700, letterSpacing: '-0.5px', color: 'var(--fg)' }}>
-              The Log
+              My Log
             </span>
             <Link
               href="/admin"
